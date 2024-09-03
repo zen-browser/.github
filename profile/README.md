@@ -10,6 +10,7 @@ Zen Browser
 Experience tranquillity while browsing the web without people tracking you!
 
 * [Website](https://www.zen-browser.app)
+* [Docs](https://docs.zen-browser.app)
 * [Download](https://www.zen-browser.app/download)
 * [Release Notes](https://www.zen-browser.app/release-notes/latest)
 
