@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/bac99e76-a1e1-4d41-aca8-c052f2ad23a3" align="left" width="200"/>
+<img src="./logo-black.png" align="left" width="200"/>
 
 ### `Zen Browser`
 
