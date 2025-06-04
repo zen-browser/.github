@@ -7,5 +7,5 @@ Experience tranquility while browsing the internet with Zen! Our mission is to g
 <a href="https://zen-browser.app/">Website</a> ·
 <a href="https://zen-browser.app/download/">Download</a> ·
 <a href="https://docs.zen-browser.app/">Docs</a> ·
-<a href="https://docs.zen-browser.app/contribute/translation">Contribute</a> ·
+<a href="https://docs.zen-browser.app/contribute/contributing">Contribute</a> ·
 <a href="https://zen-browser.app/release-notes/">Release Notes</a>
