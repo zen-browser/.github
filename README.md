@@ -1,5 +1,3 @@
-# .github
+# Zen Browser GitHub Account Files
 
-for Zen org gh home page
-
-
+Files for Zen Browser GitHub account.
